@@ -266,7 +266,7 @@ Check results:
 For more examples see ``tests``.
 
 Feel free to `open new
-issues <https://github.com/klichukb/django-migrate-sql/issues>`__.
+issues <https://github.com/festicket/django-migrate-sql/issues>`__.
 
 .. |Build Status| image:: https://travis-ci.org/klichukb/django-migrate-sql.svg?branch=master
    :target: https://travis-ci.org/klichukb/django-migrate-sql
